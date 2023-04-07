@@ -1,0 +1,21 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "\n\nAhoy there, ye landlubbers! Gather round and hear the tale of ChatGPT API. This be no regular API, my shipmates, it be a gateway to the treasure trove of knowledge.\n\nWith ChatGPT API, ye can tap into the power of language models and access a vast store of information. Ye can use it to converse with yer fellow crewmates, or even to create yer own chatbot to impress yer friends.\n\nThis API be as reliable as a seaworthy vessel and quick as a pirate's sword. It be easy to use, even for the most swarmy sea dog, and can be integrated into yer app or website without much trouble.\n\nSo hoist the sails, me hearties, and set a course for adventure with ChatGPT API. Ye'll be amazed at what it can do, and yer enemies will be left stranded in the briny deep. Yo ho ho!",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1677782082,
+  "id": "chatcmpl-6pi3G6Nq4QFv0weuNpjYCvqZbArCM",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 189,
+    "prompt_tokens": 23,
+    "total_tokens": 212
+  }
+}

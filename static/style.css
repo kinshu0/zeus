@@ -1,0 +1,26 @@
+body {
+    background-color: #121212;
+    color: #eee;
+  }
+  
+  h1 {
+    color: #fff;
+  }
+  
+  form input[type="text"],
+  form input[type="submit"] {
+    background-color: #222;
+    color: #eee;
+    border: none;
+  }
+
+  /* .api-output {
+
+  } */
+  
+  /* pre {
+    background-color: #222;
+    color: #eee;
+    padding: 10px;
+  } */
+  

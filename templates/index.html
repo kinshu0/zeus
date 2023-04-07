@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bash Command Runner</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <body>
+    <h1>Bash Command Runner</h1>
+    <form method="POST">
+      <input type="text" name="command" placeholder="Enter a Bash command">
+      <input type="submit" value="Run">
+    </form>
+    {% if output %}
+    <pre>{{ output }}</pre>
+    {% endif %}
+  </body>
+</html>
